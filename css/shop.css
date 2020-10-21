@@ -1,0 +1,13 @@
+#products-wrapped .products-box img{
+  display:block;
+  max-width:100%;
+}
+#products-wrapped .products-title {
+  text-align:center;
+  font-weight:bold;
+  display:block;
+  font-size:25px;
+}
+*{
+  font-size:40px;
+}
